@@ -1,0 +1,5 @@
+flask
+flask-admin
+flask-login
+flask-sqlalchemy
+flask-superadmin
