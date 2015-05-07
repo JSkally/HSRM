@@ -2,7 +2,7 @@ __H__ ogwarts __S__ tudent __R__ ecords __M__ anagement
 
 This solution is written on Flask in Python.
 
-All tools used are listed in [reqs.txt]
+All tools used are listed in [reqs.txt](https://github.com/JSkally/HSRM/blob/master/reqs.txt)
 
 Ensure you have python virtual environment installed, if not,
 
