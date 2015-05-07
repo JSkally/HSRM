@@ -1,3 +1,3 @@
-__H__ogwarts __S__tudent __R__ecords __M__anagement
+__H__ ogwarts __S__ tudent __R__ ecords __M__ anagement
 
 This solution is written on Flask in Python.
